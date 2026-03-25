@@ -1,7 +1,7 @@
 # Linear Regression & Classification Model
 
 ## Project Overview
-This project demonstrates how to build machine learning models for both regression and classification tasks using Python. The goal is to predict numeric outcomes and classify categories using real-world data.
+This project demonstrates how to build machine learning models for both regression and classification tasks using Python to predict numeric outcomes and classify categories from real-world data. Task 3 implements Spark Que Tech for efficient data processing, including cleaning, feature engineering, and scaling, and trains scalable ML models using Spark MLlib for both regression and classification.
 
 ## Tools & Technologies
 - Python
